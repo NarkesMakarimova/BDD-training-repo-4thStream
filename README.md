@@ -7,7 +7,7 @@ A special repo for the QA Manual school at Quantori, 3 stream
 - SpecFlow
 - Git
 
-### What were done 
+### What should be done 
 
 1. Cloned [the repository from Github](https://github.com/AlexandraPopovaz/BDD-training-repo)
 2. Create a new Feature file
