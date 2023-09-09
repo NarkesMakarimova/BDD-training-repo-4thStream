@@ -1,5 +1,5 @@
 # BDD-training-repo
-A special repo for the QA Manual school at Quantori, 3 stream
+A special repo for the QA Manual school at Quantori, 4 stream
 
 ### Project setup
 
